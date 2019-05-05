@@ -1,0 +1,2 @@
+model_checkpoint_path: "stack_mlp_shoe_woman"
+all_model_checkpoint_paths: "stack_mlp_shoe_woman"

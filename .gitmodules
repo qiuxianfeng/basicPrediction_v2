@@ -1,0 +1,3 @@
+[submodule "dbconnector4py"]
+	path = dbconnector4py
+	url = http://aigit.epoque.cn/ml/dbconnector4py.git
